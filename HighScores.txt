@@ -1,0 +1,6 @@
+Player Name: Julie, Symbol: X, Score: 1.0
+Player Name: Charlotte, Symbol: X, Score: 0.0
+Player Name: e, Symbol: X, Score: 1.0
+Player Name: r, Symbol: X, Score: 0.0
+Player Name: uly, Symbol: X, Score: 1.0
+Player Name: 2ly, Symbol: X, Score: 0.0
